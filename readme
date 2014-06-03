@@ -1,0 +1,10 @@
+This tools is used to analysis APK file.
+
+capstoneAutoTranslate is used to translate all APK files in the root path.
+Rootpath needed be set in the file.
+
+XXXimage will analysis all the folders of one APK file.
+
+capstoneSQLfinal will analysis infromation from database which is saved by xxximage.
+
+capstoneSQLfinal will translate the analysis result for each APK to one features for machine learning.
